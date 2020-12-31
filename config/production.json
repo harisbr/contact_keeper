@@ -1,0 +1,4 @@
+{
+	"mongoURI": "mongodb+srv://contact-user:ContactUser123!@hariscluster.mnzzd.mongodb.net/contacts-keeper?retryWrites=true&w=majority",
+	"jwtSecret": "1SaMQlOEug8LJFEiqwg6"
+}
